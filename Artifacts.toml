@@ -1,0 +1,6 @@
+[fast_float]
+git-tree-sha1 = "7bc2d48125da8575e9b1e1c987a48bdd73c1134a"
+
+    [[fast_float.download]]
+    sha256 = "eb8fbe2d98b53fca42fae9e56948b70fbf4a04a46c8a3761211b4b375d0b3f93"
+    url = "https://github.com/JuliaBinaryWrappers/fast_float_jll.jl/releases/download/fast_float-v8.2.4+0/fast_float.v8.2.4.any.tar.gz"
